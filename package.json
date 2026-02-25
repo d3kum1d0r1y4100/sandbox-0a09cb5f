@@ -1,0 +1,8 @@
+{
+  "name": "sandbox-0a09cb5f",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo test",
+    "build": "echo build"
+  }
+}
